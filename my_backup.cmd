@@ -1,4 +1,6 @@
-:: my backup batch file
+:: batch file, cmd Windows Xp
+:: backup file or folder, 7zip it and copy to destination
+
 :: input p0, p1, ... (source, destination)
 :: set FILENAME=%~nx1
 
